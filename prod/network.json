@@ -1,6 +1,6 @@
 {
     "resource_group": "prod-hub-rg",
-    "location": "northeurope",
+    "location": "westeurope",
     "vnet_name": "prod-hub-vnet",
     "address_space": ["10.0.0.0/16"],
     "subnets": [
